@@ -1,3 +1,5 @@
+https://github.com/eprev/locationchanger.git
+
 # Location Changer
 
 It automatically changes OS X’s [network location](https://support.apple.com/en-us/HT202480)
